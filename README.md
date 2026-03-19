@@ -8,7 +8,7 @@ A cinematic terminal-style boot sequence built with HTML, CSS, and JavaScript. T
 
 
 
-## 🚀 Features
+## Features
 
 - **Animated boot sequence** with timed command-line output  
 - **Retro terminal aesthetic** using monospace fonts and minimal styling  
@@ -18,7 +18,7 @@ A cinematic terminal-style boot sequence built with HTML, CSS, and JavaScript. T
 
 
 
-## 📁 Project Structure
+## Project Structure
 
 
 
@@ -29,13 +29,13 @@ A cinematic terminal-style boot sequence built with HTML, CSS, and JavaScript. T
 
 
 
-## 🧠 How It Works
+## How It Works
 
 The boot sequence is controlled through JavaScript timers that reveal lines of text one by one, mimicking a real command-line startup. CSS handles the blinking cursor, fade effects, and overall terminal look. The result is a smooth, immersive animation that feels like a system coming online.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was created as a visual experiment and a foundation for future UI concepts, such as:
 
@@ -46,7 +46,7 @@ This project was created as a visual experiment and a foundation for future UI c
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add sound effects (startup beeps, static, etc.)  
 - Add user interaction (press any key to continue)  
@@ -55,6 +55,6 @@ This project was created as a visual experiment and a foundation for future UI c
 
 ---
 
-## 📜 License
+## License
 
 This project is open for learning, remixing, and personal use.
